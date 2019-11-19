@@ -1,0 +1,66 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+h1
+{
+    font-family: 'Bitter', serif;
+}
+.image-logo
+{
+    widows: 50px;
+    height: 50px;
+}
+.navbar-brand
+{
+    margin-left: 2%;
+}
+
+.align-center
+{
+    text-align: center;
+}
+.main-body
+{
+    padding: 3% 5% ;
+    background-color: #f35588;
+}
+.theme
+{
+    margin: 5% 5%;
+}
+#carouselExampleControls
+{
+    margin:  7%  7%;
+}
+
+
+/* carousel */
+.carousel-image
+{
+    widows: 450px;
+    height: 300px;
+}
+.service
+{
+    margin: 15% 20% 15% 20%;
+}
+.logos
+{
+    height: 100px;
+    width: 100px;
+}
+/* contect */
+.fab
+{
+
+    margin: 0 10px 0 10px;
+}
+.contect-us
+{
+    background-color: #9fdfcd;
+    padding:5% 5% ;
+}
